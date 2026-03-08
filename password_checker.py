@@ -22,4 +22,4 @@ result["Uppercase"] = uppercase
 if all(result.values()):
     print("Strong password")
 else:
-    print("Weak password")
+    print("Weak password, try again.")
